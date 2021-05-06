@@ -9,6 +9,7 @@ ___
 <img height = "100px" width = "115px" alt="GIF" src ="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />
 <img height = "100px" width = "115px" alt="GIF" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
 </div>
+___
 
 ![dany-cs](https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical)
  
