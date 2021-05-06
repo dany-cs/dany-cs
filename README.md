@@ -1,6 +1,6 @@
 ### Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
 ___
-**Lenguajes y herramientas
+## Lenguajes y herramientas
 <div align='center'>
 <img height = "100px" width = "115px" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
 <img height = "100px" width = "115px" alt="GIF" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
