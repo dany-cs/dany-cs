@@ -1,13 +1,14 @@
 ### Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
 ___
-## Lenguajes y herramientas
+
 <div align='center'>
-<img height = "80px" width = "100px" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
-<img height = "80px" width = "100px" alt="GIF" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
-<img height = "80px" width = "100px" alt="GIF" src = "https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
-<img height = "80px" width = "100px" alt="GIF" src = "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
-<img height = "80px" width = "100px" alt="GIF" src ="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />
-<img height = "80px" width = "100px" alt="GIF" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
+ <h2>Lenguajes y herramientas</h2>
+<img height = "65px" width = "80px" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
+<img height = "65px" width = "80px" alt="GIF" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
+<img height = "65px" width = "80px" alt="GIF" src = "https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+<img height = "65px" width = "80px" alt="GIF" src = "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
+<img height = "65px" width = "80px" alt="GIF" src ="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />
+<img height = "100px" width = "120px" alt="GIF" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
 </div>
 
 
