@@ -1,5 +1,4 @@
-# :Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.:
-
+# Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
 
 <div align='center'>
  <h2>Lenguajes y herramientas</h2>
@@ -9,13 +8,14 @@
 <img height = "65px" width = "80px" alt="GIF" src = "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
 <img height = "65px" width = "80px" alt="GIF" src ="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" />
 <img height = "100px" width = "120px" alt="GIF" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
-</div>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dany-cs&layout=compact)](https://github.com/dany-cs/github-readme-stats)-->
-
-![dany-cs](https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical)
-
  
+</div>
+<!--[![Top Langs]()](https://github.com/dany-cs/github-readme-stats)-->
+<a href="https://github.com/dany-cs/github-readme-stats">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical" />
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-cs&layout=compact&theme=radical" />
+</a>
+
 
 <!--
 **dany-cs/dany-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
