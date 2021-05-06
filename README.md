@@ -4,7 +4,7 @@
  
 Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 💛
 </p>
-</div>
+
 <br>
 <br>
 <div align='center'>
@@ -21,10 +21,13 @@ Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical" />
-
+<br>
 </div>
+<h2>⭐Contactame por medio de:</h2>
 
-
+- https://www.linkedin.com/in/dany-correo
+ 
+- danycorreos96@gmail.com
 <!--
 **dany-cs/dany-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
