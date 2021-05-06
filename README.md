@@ -1,5 +1,5 @@
-### Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
-___
+# :Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.:
+
 
 <div align='center'>
  <h2>Lenguajes y herramientas</h2>
