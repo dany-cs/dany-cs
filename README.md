@@ -1,6 +1,6 @@
 <div align='center'>
 <h1>Hola, soy Dany</h1>
-<p>Una chica apasionada por la tecnología y autodidacta Mexicana. Donde sus principales metas es ayudar a los demas y simplificar la vida de los usuarios y su entorno
+<p>Una chica apasionada por la tecnología y autodidacta Mexicana. Donde sus principales metas es ayudar a los demas y simplificar la vida de los usuarios y su entorno. 
  
 Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 💛
 </p>
