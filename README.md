@@ -10,7 +10,9 @@ ___
 <img height = "100px" width = "115px" alt="GIF" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
 </div>
 ___
+<div>
 ![dany-cs](https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical)
+ </div>
 
 <!--
 **dany-cs/dany-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
