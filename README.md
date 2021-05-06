@@ -5,9 +5,9 @@
 Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 💛
 </p>
 </div>
-
+<br>
+<br>
 <div align='center'>
-	
  <h3> Lenguajes y herramientas 🛠️"</h3>
 <img height = "65px" width = "80px" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
 <img height = "65px" width = "80px" alt="GIF" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
@@ -18,10 +18,11 @@ Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 
  
 </div>
 <!--[![Top Langs]()](https://github.com/dany-cs/github-readme-stats)-->
-<a href="https://github.com/dany-cs/github-readme-stats">
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical" />
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical" />
 
-</a>
+</div>
 
 
 <!--
