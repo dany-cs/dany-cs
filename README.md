@@ -1,7 +1,14 @@
-# Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
+<div align='center'>
+<h1>Hola, soy Dany</h1>
+<p>Una chica apasionada por la tecnología y autodidacta Mexicana. Donde sus principales metas es ayudar a los demas y simplificar la vida de los usuarios y su entorno
+ 
+Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 💛
+</p>
+</div>
 
 <div align='center'>
- <h2>Lenguajes y herramientas</h2>
+	
+ <h3> Lenguajes y herramientas 🛠️"</h3>
 <img height = "65px" width = "80px" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
 <img height = "65px" width = "80px" alt="GIF" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
 <img height = "65px" width = "80px" alt="GIF" src = "https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
@@ -13,7 +20,7 @@
 <!--[![Top Langs]()](https://github.com/dany-cs/github-readme-stats)-->
 <a href="https://github.com/dany-cs/github-readme-stats">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical" />
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-cs&layout=compact&theme=radical" />
+
 </a>
 
 
