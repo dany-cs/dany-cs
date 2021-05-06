@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
+
+![dany-cs](https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical)
 
 <!--
 **dany-cs/dany-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
