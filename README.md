@@ -1,6 +1,6 @@
 ### Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
 
-<a href="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+<a href="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></a>
 
 ![dany-cs](https://github-readme-stats.vercel.app/api?username=dany-cs&show_icons=true&theme=radical)
 
