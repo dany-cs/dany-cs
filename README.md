@@ -1,5 +1,6 @@
 ### Hola, soy Dany una chica apasionada por la tecnología y autodidacta Mexicana.
 <img alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" />
+<img alt="GIF" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" />
 <img alt="GIF" src = "https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
 <img alt="GIF" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
 
