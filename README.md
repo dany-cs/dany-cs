@@ -4,8 +4,6 @@
  
 Estudiante de Front-end Developer en [Laboratoria](https://www.laboratoria.la/) 💛
 </p>
-
-<br>
 <br>
 <div align='center'>
  <h3> Lenguajes y herramientas 🛠️"</h3>
